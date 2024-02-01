@@ -8,7 +8,7 @@ JS
 Check It Out Directly
 https://jj-database.github.io/Woohoo-Travel-Website/
 
-I am apologize for inconvenience which have a video cant upload successful. I will recommend download the ZIP version to enjoy the website design.
+I am apologize for inconvenience which have a video cant upload successful due to the size of the file. 
 
 Thank You
 Your Sincerely,
